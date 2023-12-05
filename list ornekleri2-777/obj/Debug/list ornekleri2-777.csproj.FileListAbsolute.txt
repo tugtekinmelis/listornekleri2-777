@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\bin\Debug\list ornekleri2-777.exe.config
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\bin\Debug\list ornekleri2-777.exe
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\bin\Debug\list ornekleri2-777.pdb
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list ornekleri2-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list ornekleri2-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list_ornekleri2_777.Form1.resources
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list_ornekleri2_777.Properties.Resources.resources
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list ornekleri2-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list ornekleri2-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list ornekleri2-777.exe
+C:\Users\User\source\repos\list ornekleri2-777\list ornekleri2-777\obj\Debug\list ornekleri2-777.pdb
